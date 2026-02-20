@@ -1,3 +1,7 @@
+<font color="red" size="6"><b>不需要了，可以不用往下看了，留个纪念<br>之后的这类教程大概率会直接更在MAS文档站那边</b></font>
+
+
+
 # MAS 运行AALC时候所需要添加的bat文件
 
 ## 若你是搜索AALC或者MAS——atuo的话，你找错地方了，对此我感到抱歉,以下为AALC和MAS——atuo的Github仓库
